@@ -1,0 +1,8 @@
+[package]
+name = "rusoto-example"
+version = "0.1.0"
+authors = ["ROki1988 <roki.swindler@gmail.com>"]
+
+[dependencies]
+rusoto_core = "0.29.0"
+rusoto_s3 = "0.29.0"
